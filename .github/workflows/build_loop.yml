@@ -214,8 +214,8 @@ jobs:
           override_sens \
           now_line \
           watch_title \
-          meal_days \
-          meal_week \
+          # meal_days \
+          # meal_week \
           profiles \
           basal_lock \
           negative_insulin

@@ -213,7 +213,6 @@ jobs:
           low_carb_limit \
           override_sens \
           now_line \
-          watch_title \
           profiles \
           basal_lock \
           negative_insulin
